@@ -1,0 +1,19 @@
+.max-width{
+    width:100%
+}
+
+.custom-container {
+    display: flex;
+    justify-content: center;    
+}
+
+.form-class {
+    width: 100vw;
+}
+
+@media (min-width: 400px) {
+    .form-class {
+        width: 60vw;
+    }
+}
+

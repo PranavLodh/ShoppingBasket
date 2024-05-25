@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebProject\\ShoppingBasketApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F05458-E354-4BEA-99F2-C535E8648FCA}|ShoppingBasketApi\\ShoppingBasketApi.csproj|c:\\webproject\\shoppingbasketapi\\shoppingbasketapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F05458-E354-4BEA-99F2-C535E8648FCA}|ShoppingBasketApi\\ShoppingBasketApi.csproj|solutionrelative:shoppingbasketapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F05458-E354-4BEA-99F2-C535E8648FCA}|ShoppingBasketApi\\ShoppingBasketApi.csproj|c:\\webproject\\shoppingbasketapi\\shoppingbasketapi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F05458-E354-4BEA-99F2-C535E8648FCA}|ShoppingBasketApi\\ShoppingBasketApi.csproj|solutionrelative:shoppingbasketapi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F05458-E354-4BEA-99F2-C535E8648FCA}|ShoppingBasketApi\\ShoppingBasketApi.csproj|c:\\webproject\\shoppingbasketapi\\shoppingbasketapi\\shoppingbasketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5F05458-E354-4BEA-99F2-C535E8648FCA}|ShoppingBasketApi\\ShoppingBasketApi.csproj|solutionrelative:shoppingbasketapi\\shoppingbasketapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F05458-E354-4BEA-99F2-C535E8648FCA}|ShoppingBasketApi\\ShoppingBasketApi.csproj|c:\\webproject\\shoppingbasketapi\\shoppingbasketapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F05458-E354-4BEA-99F2-C535E8648FCA}|ShoppingBasketApi\\ShoppingBasketApi.csproj|solutionrelative:shoppingbasketapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\WebProject\\ShoppingBasketApi\\ShoppingBasketApi\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ShoppingBasketApi\\Models\\Login.cs",
+              "ToolTip": "C:\\WebProject\\ShoppingBasketApi\\ShoppingBasketApi\\Models\\Login.cs",
+              "RelativeToolTip": "ShoppingBasketApi\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:26:26.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingBasketApi",
+              "DocumentMoniker": "C:\\WebProject\\ShoppingBasketApi\\ShoppingBasketApi\\ShoppingBasketApi.csproj",
+              "RelativeDocumentMoniker": "ShoppingBasketApi\\ShoppingBasketApi.csproj",
+              "ToolTip": "C:\\WebProject\\ShoppingBasketApi\\ShoppingBasketApi\\ShoppingBasketApi.csproj",
+              "RelativeToolTip": "ShoppingBasketApi\\ShoppingBasketApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T11:26:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\WebProject\\ShoppingBasketApi\\ShoppingBasketApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ShoppingBasketApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\WebProject\\ShoppingBasketApi\\ShoppingBasketApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ShoppingBasketApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:16:34.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\WebProject\\ShoppingBasketApi\\ShoppingBasketApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ShoppingBasketApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\WebProject\\ShoppingBasketApi\\ShoppingBasketApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ShoppingBasketApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:20:29.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
