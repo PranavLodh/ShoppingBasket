@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './forgot-password.component.css'
 })
 export class ForgotPasswordComponent {
-
+  otp_validation_message:string=''
+  change_password_message:string=''
 }
